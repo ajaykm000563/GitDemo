@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello1
+=======
+git add2
+>>>>>>> ajay
