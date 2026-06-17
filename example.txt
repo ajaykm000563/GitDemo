@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 git add2
-=======
-Hello
->>>>>>> 50dea040cf628c8360ed599a6b4b64c2069dd8f5
